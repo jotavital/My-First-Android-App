@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         meuAlerta2 = new AlertDialog.Builder(MainActivity.this).create();
         meuAlerta2.setTitle("Meu segundo alerta");
-        meuAlerta2.setMessage("Eu amo Beatriz!");
+        meuAlerta2.setMessage("Eu amo Beatriz");
 
     }
 
